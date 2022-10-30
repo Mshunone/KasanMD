@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com' // ig
+global.sgh = 'https://github.com/SaxiaBot/' // github
+global.sgc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -69,7 +69,7 @@ global.psaweria = 'https://saweria.co/mrw4h1d'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283111136642'
 global.nomorown = '6285641142178'
-global.namebot = 'SaxiaBotz-Md'
+global.namebot = 'SaxiaV2Botz˘あ'
 global.nameown = 'San.id'
 
 /*============== Github Thanks To ==============*/
@@ -86,7 +86,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 /*============== STAFF ==============*/
 global.owner = [
   ['6285641142178', 'San.id', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6283805685278', 'Xell.id', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SaxiaBotz-Md 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SaxiaBotz-Md ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ SaxiaBotz-Md '
+global.wm = '                「 SaxiaV2Botz˘あ 」' //Main Watermark
+global.wm2 = '꒰ ˘SaxiaV2Botz˘あ ꒱'
+global.wm3 = '⫹⫺ SaxiaV2Botz˘あ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By San.id`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 SaxiaBotz-Md  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By ® Ka˘Xel.id`
+global.packname = ' ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
+global.author = '                「 SaxiaV2Botz˘あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -154,11 +154,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://i.pinimg.com/originals/e9/d5/46/e9d5466eed88731e3dd4211d2cc89c9b.jpg' //Main Thumbnail
+global.imagebot = 'https://i.pinimg.com/originals/e9/d5/46/e9d5466eed88731e3dd4211d2cc89c9b.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://i.pinimg.com/originals/50/3a/f4/503af49701fa85b7c938d8e54ffa1549.jpg']
+global.fla = 'https://i.pinimg.com/originals/50/3a/f4/503af49701fa85b7c938d8e54ffa1549.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -625,7 +625,7 @@ global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊✦ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.cmenua = '\n ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ \n     ' //after
 global.pmenus = '✦' //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
@@ -636,7 +636,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'SaxiaBotz-Md'
+global.stickpack = 'SaxiaV2Botz˘汉'
 global.stickauth = `By ©San.id`
 
 global.multiplier = 38 // The higher, The harder levelup
